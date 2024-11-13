@@ -56,7 +56,7 @@ data:
       <title>Custom Apache Page</title>
     </head>
     <body>
-      <h1>Welcome to My Custom Apache Web Server!</h1>
+      <h1>Welcome to My Suraj file!</h1>
       <p>This page was served by an Apache container running in Kubernetes.</p>
     </body>
     </html>
@@ -180,6 +180,43 @@ kubectl delete -f httpd-deployment.yml
   
 ## *This setup demonstrates how to deploy, expose, and customize an Apache HTTPd service in Kubernetes.*
 
+
+
+
+
+
+
+<br>
+<br>
+<br>
+
+
+
+## ------------------Screnshots--------------------
+1.
+<br>
+<br>
+
+
+![Alt text for image](screenshots/1.png)
+
+2.
+<br>
+<br>
+
+
+![Alt text for image](screenshots/2.png)
+
+
+3.
+<br>
+<br>
+
+
+![Alt text for image](screenshots/3.png)
+
+<br>
+<br>
 
 
 
