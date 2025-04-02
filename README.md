@@ -3,7 +3,9 @@
 *This guide outlines the steps to create a Kubernetes deployment with 5 replicas of the HTTPD server, expose it externally with a NodePort service, and replace the default Apache page with a custom HTML page.*
 
 ### Follow Below Steps to Implement.
+
 <br>
+
 ### Step 1: Create a Custom HTML Page
 
 - First, create a custom index.html file with the content you'd like to display.
@@ -11,7 +13,7 @@
    - Sample HTML file (index.html):
  
 ```yml
-  <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
